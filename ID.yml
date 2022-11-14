@@ -1,0 +1,45 @@
+catagory:
+- Stock
+conversations:
+- - Do you have a Cap Screw
+  - Yes, We have 100 Cap Screws in stock
+- - What colour is the Cap Screw
+  - The colour is Silver
+- - What is the price of a Cap Screw
+  - The price is R12.00 each
+- - Do you have a Washer
+  - Yes, We have 100 Washers in stock
+- - What colour is the Washer
+  - The colour is Silver
+- - What is the price of a Washer
+  - The price is R2.00 each
+- - Do you have a T-Bolt
+  - Yes, We have 50 T-Bolts in stock
+- - What colour is the T-Bolt
+  - The colour is Silver
+- - What is the price of a T-Bolt
+  - The price is R22.00 each
+- - Do you have a Flange Nut
+  - Yes, We have 200 Flange Nuts in stock
+- - What colour is the Flange Nut
+  - The colour is Silver
+- - What is the price of a Flange Nut
+  - The price is R10.00 each
+- - Do you have a PDU
+  - Yes, We have 10 PDUs in stock
+- - What colour is the PDU
+  - The colour is BLACK
+- - What is the price of a PDU
+  - The price is R800.00 each
+- - Do you have a LED
+  - Yes, We have 100 LEDs in stock
+- - What colour is the LED
+  - The colour is RED
+- - What is the price of a LED
+  - The price is R1.00 each
+- - Do you have a battery
+  - Yes, We have 10 batterys in stock
+- - What colour is the battery
+  - The colour is BLACK
+- - What is the price of a battery
+  - The price is R180.00 each
